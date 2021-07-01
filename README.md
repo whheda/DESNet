@@ -8,3 +8,5 @@ URL：https://pan.baidu.com/s/1RWNfG3lgsNQz_upzk4ksHA
 Code：btgu
 
 It includes the 4 m fine-grained products, and the additional validation samples at region T1-T4, as well as R1.
+
+If the manuscript is accepted, the pre-trained model and test code will be published.
