@@ -11,6 +11,7 @@ or at Google Drive
 
 URL: https://drive.google.com/drive/folders/1eM2Wvin6y9Dc3B7SV75q2OSxh2dCFHo2?usp=sharing
 
-It includes the 4 m fine-grained products, and the additional validation samples at region T1-T4, as well as R1.
+It includes the 4 m fine-grained products, and the ROI of the additional validation samples at region T1-T4, as well as R1.
+The products can be opened with ENVI, ArcGIS, the format of ROI is .xml.
 
 If the manuscript is accepted, the pre-trained model and test code will be published.
